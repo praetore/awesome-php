@@ -660,6 +660,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Pomander](https://github.com/tamagokun/pomander) - A deployment tool for PHP applications.
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - A fast and easy deployer for the PHP world.
+* [Magallanes](https://github.com/andres-montanez/Magallanes) - Another deployment tool for PHP.
 * [Envoy](https://github.com/laravel/envoy) - A tool to run SSH tasks with PHP.
 * [Plum](https://github.com/aerialls/Plum) - A deployer library.
 * [Deployer](https://github.com/deployphp/deployer) - A deployment tool.
